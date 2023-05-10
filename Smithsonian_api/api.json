@@ -1,0 +1,1806 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "ld1-1646149545906-1646150459786-0",
+                "title": "Exhibition of Chinese history National Museum of Chinese History ; editorial direction, Yu Weichao, Du Yaoxi",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_853990",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_853990",
+                        "unit_code": "SIL",
+                        "title_sort": "EXHIBITION OF CHINESE HISTORY NATIONAL MUSEUM OF CHINESE HISTORY EDITORIAL DIRECTION YU WEICHAO DU YAOXI",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!853990~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Exhibition of Chinese history National Museum of Chinese History ; editorial direction, Yu Weichao, Du Yaoxi"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1990s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "People's Republic of China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Catalogs"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "name": [
+                            "Yu, Weichao",
+                            "Zhongguo li shi bo wu guan",
+                            "Du, Yaoxi"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Antiquities",
+                            "Antiquités",
+                            "Art chinois"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "place": [
+                            "Beijing",
+                            "China",
+                            "Pékin",
+                            "Chine"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1998"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "DS735 .Z4613 1998"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Based on the Museum's more extensive catalog, Journey into China's antiquity, of material in its permanent collection (Beijing, China : Morning Glory Publishers, 1997. 4 volume). Cf. Postscript, pages 190"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "FSG copy 39088020322301 has bookplate: Freer Gallery of Art Library. Gift of Ms. Ruth Kurzbauer in memory of Dr. Marcus Jacobson."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Zhongguo li shi bo wu guan"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Yu, Weichao"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Du, Yaoxi"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Zhongguo li shi bo wu guan"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Art, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art chinois"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Antiquities"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Antiquités"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Beijing"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Chine"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Pékin"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "190 pages color illustrations 29 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Catalogs"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Catalogues"
+                            }
+                        ]
+                    }
+                },
+                "hash": "1fa0f219041184626652ec06383cfb020a64afbd",
+                "docSignature": "e04977a6eb9770f1e1b56f4e188d88e5",
+                "timestamp": "1663785123",
+                "lastTimeUpdated": "1658825500",
+                "version": ""
+            },
+            {
+                "id": "ld1-1646149545906-1646149900735-2",
+                "title": "Inside/out new Chinese art edited by Gao Minglu ; with essays by Norman Bryson [and others]",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_646691",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_646691",
+                        "unit_code": "SIL",
+                        "title_sort": "INSIDEOUT NEW CHINESE ART EDITED BY GAO MINGLU WITH ESSAYS BY NORMAN BRYSON AND OTHERS",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!646691~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Inside/out new Chinese art edited by Gao Minglu ; with essays by Norman Bryson [and others]"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1920s",
+                            "1910s",
+                            "1940s",
+                            "1930s",
+                            "1900s",
+                            "1990s",
+                            "1960s",
+                            "1950s",
+                            "1980s",
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "Exhibition catalog",
+                            "Exhibition catalogs",
+                            "Catalogues d'exposition",
+                            "Exhibitions (events)"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "name": [
+                            "Bryson, Norman",
+                            "Gao, Minglu",
+                            "Asia Society"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Catalogues d'exposition",
+                            "Art chinois",
+                            "Beeldende kunsten"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1998"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "20th century"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "20e siècle"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "N7345 .I58 1998X"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "N7345 .I58 1998"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Exhibition itinerary: Asia Society Galleries, New York, Sept. 15, 1998-Jan. 3, 1999 [and others]"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "FSG copy 39088020326682 has bookplate: Freer Gallery of Art Library. Gift of Ms. Ruth Kurzbauer in memory of Dr. Marcus Jacobson."
+                            },
+                            {
+                                "label": "Contents",
+                                "content": "Toward a transnational modernity : an overview of Inside out : new Chinese art / Gao Minglu -- Across trans-Chinese landscapes : reflections on contemporary Chinese cultures / Leo Ou-Fan Lee -- Post-ideological avant-garde / Norman Bryson -- Ruins, fragmentation, and the Chinese modern/postmodern / Wu Hung -- Beyond the middle kingdom : an insider's view / Chang Tsong-Zung -- Plates -- From elite to small man : the many faces of a transitional avant-garde in mainland China / Gao Minglu -- Striving for a cultural identity in the maze of power struggles : a brief introduction to the development of the contemporary art of Taiwan / Victoria Y. Lu -- Found in transit : Hong Kong art in a time of change / David Clarke -- Strategies of survival in the third space : a conversation on the situation of overseas Chinese artists in the 1990s / Hou Hanru and Gao Minglu"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Published on the occasion of the touring exhibition of the same name, organized by the Asia Society Galleries, New York, and the San Francisco Museum of Modern Art"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Gao, Minglu"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Bryson, Norman 1949-"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Asia Society Galleries"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Art, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art chinois"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Beeldende kunsten"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art chinois--Catalogues d'exposition"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "New Chinese art"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "223 pages illustrations (some color) 29 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Exhibitions"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Expositions"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Exhibition catalogs"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Exhibition catalog"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Catalogues d'exposition"
+                            }
+                        ]
+                    }
+                },
+                "hash": "02647d452fe2548085c9f0b6ca7a4a3cb55497c7",
+                "docSignature": "d6332a7895ca32585f0049fe2bdf51f6",
+                "timestamp": "1663782979",
+                "lastTimeUpdated": "1658825500",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390188523-0",
+                "title": "Textile with floral medallions and lozenges",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1911.597a-b",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1911.597a-b",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8084_01",
+                                    "idsId": "FS-8084_01",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5b87715c6-0fae-4c92-b407-ce5e9ef162cd",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-8084_01",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=FS-8084_01.tif",
+                                            "width": 2209,
+                                            "height": 5600
+                                        },
+                                        {
+                                            "width": 2209,
+                                            "height": 5600,
+                                            "label": "High-resolution JPEG",
+                                            "url": "https://ids.si.edu/ids/download?id=FS-8084_01.jpg",
+                                            "dimensions": "2209x5600"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=FS-8084_01_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=FS-8084_01_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "TEXTILE WITH FLORAL MEDALLIONS AND LOZENGES",
+                        "guid": "http://n2t.net/ark:/65665/ye3310c0191-5f7a-4d50-9a82-84e781136c80",
+                        "record_link": "https://asia.si.edu/object/F1911.597a-b/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Textile with floral medallions and lozenges"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "700s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Costume",
+                            "Textiles"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Twill",
+                            "Art",
+                            "Chinese Art",
+                            "Tang dynasty (618 - 907)",
+                            "Weft patterning"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "first half of the 8th century"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Mid-Tang dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1911.597a-b"
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Gift of Charles Lang Freer"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Tang dynasty (618 - 907)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "weft patterning"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "twill"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Brocade (jin): woven silk (weft-faced compound twill)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x W: 150.1 x 59.3 cm (59 1/8 x 23 3/8 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Costume and Textile"
+                            }
+                        ]
+                    }
+                },
+                "hash": "dc4c3e0497064c8f694c19b99802c7f1d20bcb0b",
+                "docSignature": "c90b91334223d95169ff33cf89f2080f",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1659440709",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191198-1",
+                "title": "Pottery vessel of the type li",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1923.16",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1923.16",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-7531_27",
+                                    "idsId": "FS-7531_27",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5cc405f1c-833a-4d40-85c2-973696fd80cf",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-7531_27"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "POTTERY VESSEL OF THE TYPE LI",
+                        "guid": "http://n2t.net/ark:/65665/ye39b48dd47-034e-4c7a-8b28-a983a4cba25c",
+                        "record_link": "https://asia.si.edu/object/F1923.16/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Pottery vessel of the type li"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "BCE 0s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Vessels (containers)"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Eastern Zhou dynasty (770 - 221 BCE)",
+                            "Chinese Art",
+                            "Pottery",
+                            "Carl Whiting Bishop collection"
+                        ],
+                        "place": [
+                            "China",
+                            "Hebei province"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "770-221 BCE"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Eastern Zhou dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1923.16"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Provenance",
+                                "content": "From 1923"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased by Carl Whiting Bishop at I-Chou, Hopei province, China in November 1923 [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Note:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] See Curatorial Remark 1 in the object record."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Eastern Zhou dynasty (770 - 221 BCE)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "earthenware"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Carl Whiting Bishop collection"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "Hebei province, China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Earthenware"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x Diam: 26.1 x 17.3 cm (10 1/4 x 6 13/16 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Vessel"
+                            }
+                        ]
+                    }
+                },
+                "hash": "fa9e2c35059a54a6f08aa4d365afac6c5267baf9",
+                "docSignature": "ec573a2aff6dbb8336c65231b236a5d7",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191201-1",
+                "title": "Tomb tile",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1923.21",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1923.21",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8536_21",
+                                    "idsId": "FS-8536_21",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5b108df84-d939-4d4d-ac4c-454ac8e1f1f7",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-8536_21"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "TOMB TILE",
+                        "guid": "http://n2t.net/ark:/65665/ye3ab898324-83b5-4985-bb50-a35efeb648ad",
+                        "record_link": "https://asia.si.edu/object/F1923.21/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Tomb tile"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "BCE 0s",
+                            "200s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Architectural elements"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Chinese Art",
+                            "Funerary",
+                            "Carl Whiting Bishop collection",
+                            "Han dynasty (206 BCE - 220 CE)"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "206 BCE-220 CE"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Han dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1923.21"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Provenance",
+                                "content": "From 1923"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased by Carl Whiting Bishop on July 8th 1923 [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Note:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] Transferred from the Bishop Collection; formerly T-3.1 (according to Freer Gallery of Art Purchase List After 1920). Also see the Bishop Collection file, Collections Management Office."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Han dynasty (206 BCE - 220 CE)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "funerary"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Carl Whiting Bishop collection"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Pottery"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x W x D: 37.7 x 137.7 x 17.8 cm (14 13/16 x 54 3/16 x 7 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Architectural Element"
+                            }
+                        ]
+                    }
+                },
+                "hash": "78cf466c5024adff5edf8c74d02b5365977fd0e1",
+                "docSignature": "19e75b8165666b266caa20ab6aba80eb",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191202-0",
+                "title": "Funerary tile decorated with impressed motifs",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1923.22",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1923.22",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-7757_14",
+                                    "idsId": "FS-7757_14",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5adbe1603-7513-4aeb-a12b-8934b4a925fa",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-7757_14"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "FUNERARY TILE DECORATED WITH IMPRESSED MOTIFS",
+                        "guid": "http://n2t.net/ark:/65665/ye387077c14-e5de-49de-a96c-2ed908d46c25",
+                        "record_link": "https://asia.si.edu/object/F1923.22/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Funerary tile decorated with impressed motifs"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Architectural elements"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Chinese Art",
+                            "Funerary",
+                            "Carl Whiting Bishop collection",
+                            "Han dynasty (206 BCE - 220 CE)"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "50 BCE-50 CE"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Han dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1923.22"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Provenance",
+                                "content": "From 1923"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased by Carl Whiting Bishop [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Note:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] Transferred from the Bishop Collection; formerly T-4 (according to Freer Gallery of Art Purchase List"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "After 1920)."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Han dynasty (206 BCE - 220 CE)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "funerary"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Carl Whiting Bishop collection"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Unglazed earthenware"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x W x D: 58 × 145.3 × 14.8 cm (22 13/16 × 57 3/16 × 5 13/16 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Architectural Element"
+                            }
+                        ]
+                    }
+                },
+                "hash": "3e8404c0246bdbe60df85b2862a2f50429b12918",
+                "docSignature": "5e8030ab0e99f5f2063d993ce3353444",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191203-0",
+                "title": "Funerary tile",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1923.23",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1923.23",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8536_22",
+                                    "idsId": "FS-8536_22",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy591daf017-9bbf-49e6-8ac7-9f01c54123ec",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-8536_22"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "FUNERARY TILE",
+                        "guid": "http://n2t.net/ark:/65665/ye3bb6f8926-68bc-466d-b77b-3539fc029797",
+                        "record_link": "https://asia.si.edu/object/F1923.23/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Funerary tile"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "BCE 0s",
+                            "100s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Architectural elements"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Chinese Art",
+                            "Funerary",
+                            "Carl Whiting Bishop collection",
+                            "Han dynasty (206 BCE - 220 CE)"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "100 BCE-100 CE"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Han dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1923.23"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Provenance",
+                                "content": "From 1923"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased by Carl Whiting Bishop on Sept. 1, 1923 [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Note:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] Transferred from the Bishop Collection; formerly T-5 (according to Freer Gallery of Art Purchase List After 1920). Also see the Bishop Collection file, Collections Management Office."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Han dynasty (206 BCE - 220 CE)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "funerary"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Carl Whiting Bishop collection"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Unglazed earthenware"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x W x D: 20 × 93.2 × 13.9 cm (7 7/8 × 36 11/16 × 5 1/2 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Architectural Element"
+                            }
+                        ]
+                    }
+                },
+                "hash": "42bce838fe76539f11d5b28aa6792d5c43de214b",
+                "docSignature": "4df53e7d5416293c194230b72d89f6d2",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191203-1",
+                "title": "Funerary tile",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1923.24",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1923.24",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8536_23",
+                                    "idsId": "FS-8536_23",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5c8b5802b-a8c5-4264-8695-13684c9d0842",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-8536_23"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "FUNERARY TILE",
+                        "guid": "http://n2t.net/ark:/65665/ye3ca38a339-ac23-4218-971c-c25c1b37a8ec",
+                        "record_link": "https://asia.si.edu/object/F1923.24/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Funerary tile"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "BCE 0s",
+                            "100s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Architectural elements"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Chinese Art",
+                            "Funerary",
+                            "Carl Whiting Bishop collection",
+                            "Han dynasty (206 BCE - 220 CE)"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "100 BCE-100 CE"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Han dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1923.24"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Provenance",
+                                "content": "From 1923"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased by Carl Whiting Bishop on Sept. 1, 1923 [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Note:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] Transferred from the Bishop Collection; formerly T-5.1 (according to the Freer Gallery of Art Purchase List After 1920). Also see the Bishop Collection file, Collections Management Office."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Han dynasty (206 BCE - 220 CE)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "funerary"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Carl Whiting Bishop collection"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Unglazed earthenware"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H x W x D: 20 × 93.2 × 13.9 cm (7 7/8 × 36 11/16 × 5 1/2 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Architectural Element"
+                            }
+                        ]
+                    }
+                },
+                "hash": "256190efaf21149bb9156534e6724009901b91ab",
+                "docSignature": "4934d07db80853daa5db1228f9829534",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1643390182193-1643390191242-0",
+                "title": "Tomb figure of a lion",
+                "unitCode": "FSG",
+                "type": "edanmdm",
+                "url": "edanmdm:fsg_F1929.15",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "fsg_F1929.15",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-7735_05",
+                                    "idsId": "FS-7735_05",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/jy5eddb2c1c-430d-445e-ae16-73605491c60d",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=FS-7735_05"
+                                }
+                            ]
+                        },
+                        "unit_code": "FSG",
+                        "title_sort": "TOMB FIGURE OF A LION",
+                        "guid": "http://n2t.net/ark:/65665/ye379f8c0a4-f13f-41d3-9475-6343f5bb48d9",
+                        "record_link": "https://asia.si.edu/object/F1929.15/",
+                        "title": {
+                            "label": "Title",
+                            "content": "Tomb figure of a lion"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "700s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Sculpture"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "name": [
+                            "Yamanaka and Co."
+                        ],
+                        "topic": [
+                            "Cats",
+                            "Art",
+                            "Animals",
+                            "Chinese Art",
+                            "Pottery",
+                            "Tang dynasty (618 - 907)"
+                        ],
+                        "place": [
+                            "China"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "Related Online Resources",
+                                "content": "Google Cultural Institute"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "first half of 8th century"
+                            },
+                            {
+                                "label": "Period",
+                                "content": "Tang dynasty"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "F1929.15"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Previous custodian or owner",
+                                "content": "Yamanaka and Co. 山中商会 (1917 - 1965)"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "To 1929"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Yamanaka & Co., Washington, DC [1]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "From 1929"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Freer Gallery of Art, purchased from Yamanaka & Co., Washington, DC in April 1929 [2]"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "Notes:"
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[1] Curatorial Remark 1 in the object record."
+                            },
+                            {
+                                "label": "Provenance",
+                                "content": "[2] See note 1."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Purchase — Charles Lang Freer Endowment"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "lion"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Tang dynasty (618 - 907)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "earthenware"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Chinese Art"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Origin",
+                                "content": "China"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Medium",
+                                "content": "Earthenware with lead-silicate glazes tinted with iron, copper, and cobalt"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "H: 19 cm (7 1/2 in)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Sculpture"
+                            }
+                        ]
+                    }
+                },
+                "hash": "d29b88cd972cb06e199019b26eae8eae112de311",
+                "docSignature": "6d5ef07898c3faf33adcfd6deafbe8ec",
+                "timestamp": "1664403055",
+                "lastTimeUpdated": "1664285990",
+                "version": ""
+            },
+            {
+                "id": "ld1-1665738172011-1665738173811-0",
+                "title": "Mei shu shi shi yi = Ten essays on art history [Mei] Wu Hong zhu",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1158029",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1158029",
+                        "unit_code": "SIL",
+                        "title_sort": "MEI SHU SHI SHI YI = TEN ESSAYS ON ART HISTORY MEI WU HONG ZHU",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1158029~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Mei shu shi shi yi = Ten essays on art history [Mei] Wu Hong zhu"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "object_type": [
+                            "Books"
+                        ],
+                        "culture": [
+                            "Chinese"
+                        ],
+                        "name": [
+                            "巫鸿, 1945- author",
+                            "Wu Hung"
+                        ],
+                        "topic": [
+                            "Art",
+                            "History"
+                        ],
+                        "language": [
+                            "Chinese language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2016"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "FSG copy 39088020236394 has bookplate: Freer Gallery of Art Library. Gift of Dr. Yuan Liu, Docent"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Ben shu suo shou de shi wu hong zai 2006-2007 liang nian zhong wei \" du shu \" za zhi \" mei shu zong heng \" zhuan lan suo zhuan xie de shi pian wen zhang. zhe ge zhuan lan de mu de shi xi wang neng gou cheng wei yi ge \" zong heng chi cheng, wei yi suo zhi \" de ling yu. mei pian duan wen de zhu ti huo gu huo jin, huo jin huo yuan, huo hong guan huo wei guan, cong duo zhong shi jiao yin chu dui mei shu shi de fan si he xiang xiang"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Wu Hung 1945-"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Art--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Art"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "美术史十议 = Ten essays on art history / [美] 巫鸿著"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Ten essays on art history"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "157 pages, 2 unnumbered pages of plates illustrations (some color) 25 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            }
+                        ]
+                    }
+                },
+                "hash": "93928d09327e1ccd1f8039d5735ccb0dc25998f7",
+                "docSignature": "f8a135ef6c400a431a09229f06f9034e",
+                "timestamp": "1665738173",
+                "lastTimeUpdated": "1665738173",
+                "version": ""
+            }
+        ],
+        "rowCount": 1721,
+        "message": "content found"
+    }
+}
